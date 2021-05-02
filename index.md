@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### Articles and interviews
 
-You can use the [editor on GitHub](https://github.com/hanna-lu-nz/hanna/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Interviewed by Keeara Ofren](http://www.craccum.co.nz/?p=5249) on anti-Asian racism in Aotearoa New Zealand during COVID-19 for _Craccum_, the University of Auckland magazine (April 2020)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+['An Upgrade? Another Upgrade?'](http://www.craccum.co.nz/?p=4380) in _Craccum_, the University of Auckland magazine (August 2019)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### History
 
-```markdown
-Syntax highlighted code block
+[3 articles on Auckland Chinese history](https://ahi.auckland.ac.nz/) for an Auckland History Initiative/Summer Research Project (March 2020)
 
-# Header 1
-## Header 2
-### Header 3
+[Presentation and podcast](https://soundcloud.com/auckland-libraries) at the Auckland Libraries for the Auckland Heritage Festival (February 2020)
 
-- Bulleted
-- List
+['Thinking History'](https://www.auckland.ac.nz/en/arts/about-the-faculty/school-of-humanities/journals-initiatives-residencies-and-fellowships/histeria.html) in _Histeria!_, the University of Auckland Department of History's annual journal (October 2019)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Short creative non-fiction
 
-[Link](url) and ![Image](src)
-```
+['Walkways'](http://oscen.co/myths/art/walkways/) in _Oscen_ (November 2020)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Entry in 'Stay Home Diary'](https://bittermelon.weebly.com/stay-home-diary/8-april-2020-hanna-lu), a _Bitter Melon 苦瓜_ publication (April 2020)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanna-lu-nz/hanna/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Reviews
 
-### Support or Contact
+['Jack Whitehall: Travels with My Father, Season 4'](http://www.craccum.co.nz/?p=6901) in _Craccum_, the University of Auckland magazine (October 2020)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
